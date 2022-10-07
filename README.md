@@ -1,6 +1,7 @@
  Hi, I’m @Duncan-Lester
-- 👀 I’m interested in web development
-- 🌱 I’m currently studying Data Structures, Algorithms, and Vue
+- I’m interested in web development.
+- I’m currently studying Data Structures, Algorithms, and Vue.
+- If you would like to contact me, let's connect on Linkedin! www.linkedin.com/in/duncan-lester-32708a234
 Please check out my work below!
 
 <!---
